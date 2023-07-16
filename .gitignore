@@ -1,0 +1,17 @@
+.gradle/
+.idea/
+build/
+gradle/
+logs/
+
+*.zip
+
+
+.DS_Store
+venv
+
+# Frans' Python Setup
+emotion_server/.python-version
+emotion_server/pyproject.toml
+emotion_server/requirements.text
+emotion_server/tmp/*

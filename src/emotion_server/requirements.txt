@@ -1,0 +1,11 @@
+scipy==1.6.2
+numpy==1.20.1
+pandas==1.2.4
+Flask==1.1.2
+scipy==1.6.2
+librosa==0.8.1
+numpy==1.19.5
+dlib==19.22.1
+imutils==0.5.4
+pyaudio==0.2.11
+tensorflow==2.6.0
